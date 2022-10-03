@@ -1,5 +1,9 @@
+git clone link repo: descarca proiectul
+cd tw-1080
 git status
 git commit -a -m "mesaj"
     -a: comite toate fisierele
     -m: mesaj
-git clone
+git push: trimite modificarile pe branch
+
+
