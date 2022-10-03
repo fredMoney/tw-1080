@@ -1,0 +1,5 @@
+git status
+git commit -a -m "mesaj"
+    -a: comite toate fisierele
+    -m: mesaj
+git clone
