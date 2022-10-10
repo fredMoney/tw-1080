@@ -18,3 +18,5 @@ function fdist(source) {
 }
 
 console.log(fdist('the quick brown fox jumps over the lazy dog'))
+
+// de facut acelasi lucru pt litere
