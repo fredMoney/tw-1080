@@ -12,7 +12,7 @@
 //     return count
 // }
 
-// varianta eleganta(exemplificare split()):
+// varianta eleganta(exemplificare split(chr)):
 const countAppearances = (s, c) => s.split(c).length - 1
 
 console.log(countAppearances('a little cat', 'a'))
