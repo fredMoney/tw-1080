@@ -1,3 +1,5 @@
+// Aceeasi functie scrisa mai avansat
+
 // function checkDivisor(n, divisor) {
 //     if(n % divisor === 0) {
 //         return true
